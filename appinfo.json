@@ -1,0 +1,17 @@
+{
+  "uuid": "e04a6ee5-3bb1-4067-9c0e-e8845a2644a0",
+  "shortName": "Simple Binary",
+  "longName": "Simple Binary",
+  "companyName": "Killer Ball",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
